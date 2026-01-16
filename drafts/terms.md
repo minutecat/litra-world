@@ -43,3 +43,9 @@ Working description:
 - Meaning imposed after the fact by circumstance
 - Common among Rooks and other fixed-role groups
 - Maintained through care rather than belief in fairness
+
+## Narrative importance of “staying near”
+- Appears when leaving is no longer the hardest option.
+- Harder than intervention because it forbids control.
+- Distinct from neutrality: presence still has consequence.
+- Central to the Wanderer’s later development.
