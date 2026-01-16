@@ -1,18 +1,24 @@
 # Canon (stable truths)
 
-## Planet law: "Getting Lost"
-- Children may be relocated by the planet ("getting lost").
-- This is systemic, not punishment.
+This file contains rules and conditions that are unlikely to change.
+If something feels situational, thematic, or unresolved, it does not belong here.
 
-## Colors and status
-- Tri-color is the typical state.
-- Mono-color signals interrupted growth / missing formal belonging.
-- Social hierarchy often treats mono-color as permanently limited.
+## Planetary law: "Getting Lost"
+- Children may be relocated by the planet in an event known as "getting lost".
+- This relocation is systemic and non-punitive.
+- Return to the place of origin is not guaranteed.
+
+## Colors and social status
+- Tri-color is the typical developmental state.
+- Mono-color indicates interrupted or incomplete social recognition.
+- Mono-color is broadly treated as a permanent limitation within hierarchical systems.
 
 ## Rooks
 - Some litrans lose a color when bypassing tribal borders.
-- They become "Rooks": border-adjacent caretakers, knowledge carriers, liminal stabilizers.
+- Those affected become known as "Rooks".
+- Rooks are bound to border regions and function as caretakers, witnesses, and carriers of cross-tribal knowledge.
 
 ## Fortress (high-level)
-- Matriarchic, isolated, shaped by historic trauma around males.
-- Isolation protects, but also risks rot / extinction.
+- The fortress is a matriarchic and deliberately isolated society.
+- Its structure is shaped by historic trauma related to male dominance.
+- Isolation provides safety but increases the risk of long-term stagnation or extinction.
