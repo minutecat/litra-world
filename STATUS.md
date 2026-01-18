@@ -21,3 +21,11 @@ _Last updated: 2026-01-16_
 
 ## Next small step
 - Capture emerging terms and concepts in `drafts/terms.md`.
+
+## Recent progress
+
+- Defined rook culture as trust-based, non-hierarchical, pattern-oriented observers.
+- Captured accountability mechanics: gardens (borders), greys, and rook isolation when borders lose meaning.
+- Clarified that rook tests are diagnostic friction, not chosen-one trials.
+- Defined the abandoned-tribe contact rook as a catalyst, not a gatekeeper.
+- Explicitly rejected “repopulation = proof” logic; multiple valid outcomes acknowledged.

@@ -18,3 +18,14 @@ He sends a black bird to signal the rooks and waits for one to appear.
 
 ## Purpose of the question
 Not moral judgment — diagnostic: how displacement has shaped the caller’s reliability and risk.
+
+## Variable limits
+- Rooks only register litras after first border crossing.
+- Origin tribes are one variable among many.
+- Planetary intent is not fully traceable.
+- Consulting a rook is optional, not normative.
+
+## Outcome diversity
+- Not all relocated litras are experimentalists.
+- Not all experimentalists consult rooks.
+- Returning to repopulate is one solution among many neighboring paths.
