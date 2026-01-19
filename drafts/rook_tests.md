@@ -32,3 +32,7 @@
 - Repopulating an abandoned tribe is not required.
 - Leaving via another neighbor is valid.
 - No moral ranking of outcomes.
+
+## Example signal (tribe without guards)
+A boundary violation becomes meaningful not when it happens, but when the system refuses follow-up.
+A “test” can be the absence of response, not the event itself.
