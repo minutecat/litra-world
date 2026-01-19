@@ -22,3 +22,8 @@ If something feels situational, thematic, or unresolved, it does not belong here
 - The fortress is a matriarchic and deliberately isolated society.
 - Its structure is shaped by historic trauma related to male dominance.
 - Isolation provides safety but increases the risk of long-term stagnation or extinction.
+
+## Systemic absence
+- A tribe can appear functional while missing a core role.
+- When a role disappears (e.g. guarding), its responsibilities diffuse socially rather than vanish.
+- This diffusion creates boundary drift: violations are normalized to avoid accountability.
