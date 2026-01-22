@@ -3,6 +3,24 @@
 This document describes the main character’s internal ethic and recurring choices.
 It is not a biography and not a complete psychological profile.
 
+## Working function (not final)
+
+The Wanderer is not a solver of problems, nor a reformer of systems.
+
+His function is to **reveal what a system is willing to ignore in order to remain stable**.
+
+He does this by:
+- entering without entitlement,
+- operating competently without authority,
+- allowing boundary failures to surface without enforcing correction,
+- leaving before the system can externalize responsibility onto him.
+
+He does not fix what is broken.
+He clarifies **who would have to care** for it to be fixed.
+
+If a system improves after his presence, it is because it chose to.
+If it collapses, it was already collapsing.
+
 ## Core condition
 - He is permanently mono-color due to interrupted belonging.
 - This is not experienced as tragedy alone, but as a structural limit that never disappears.
