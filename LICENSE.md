@@ -1,0 +1,15 @@
+This work is licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — You may not distribute modified material.
+
+This license applies to all original text, concepts, and structures
+unless otherwise stated.
+
+For permissions beyond this license, contact the repository owner.
